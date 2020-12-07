@@ -1,0 +1,52 @@
+{  
+   "@context":"http://iiif.io/api/presentation/2/context.json",
+   "@id":"",
+   "@type":"sc:Manifest",
+   "label":null,
+   "license":"", 
+   "attribution":"",
+   "logo": "https://about.zenodo.org/static/img/logos/zenodo-gradient-200.png",
+   "metadata":[  
+      {  
+         "label":"Image Description",
+         "value":null
+      }
+   ],
+   "description":null,
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "sequences":[  
+      {  
+         "@id":"/zenodo/manifests/sequence/normal.json",
+         "@type":"sc:Sequence",
+         "label":"Normal Order",
+         "canvases":[  
+		{  
+               "@id":"https://cima.ng-london.org.uk/zenodo/manifests/sequence//normal.json",
+               "@type":"sc:Canvas",
+               "label":null,
+               "height":,
+               "width":,
+               "images":[  
+                  {  
+                     "@type":"oa:Annotation",
+                     "motivation":"sc:painting",
+                     "resource":{  
+                        "@id":"/full/full/0/default.jpg",
+                        "@type":"dctypes:Image",
+                        "format":"image/jpeg",
+                        "height":,
+                        "width":,
+                        "service":{  
+                           "@context":"http://iiif.io/api/image/2/context.json",
+                           "@id":"",
+                           "profile":"http://iiif.io/api/image/2/level2.json"
+                        }
+                     },
+                     "on":"https://cima.ng-london.org.uk/zenodo/manifests/sequence//normal.json"
+                  }
+               ]
+            }         ]
+      }
+   ]
+}
