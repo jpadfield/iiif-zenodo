@@ -1,18 +1,18 @@
 {  
    "@context":"http://iiif.io/api/presentation/2/context.json",
-   "@id":"",
+   "@id":"10.5281/zenodo.1434056",
    "@type":"sc:Manifest",
-   "label":null,
-   "license":"", 
-   "attribution":"",
+   "label":"Firenze, Museo dell&#39;Opera del Duomo. Stendardo processionale di Sant&#39;Agata.",
+   "license":"CC-BY-NC-ND-4.0", 
+   "attribution":"Anon",
    "logo": "https://about.zenodo.org/static/img/logos/zenodo-gradient-200.png",
    "metadata":[  
       {  
          "label":"Image Description",
-         "value":null
+         "value":"<p>Processional icon with St. Agatha. Firenze, Museo dell&#39;Opera del Duomo, <em>circa<\/em> 1290.<\/p>"
       }
    ],
-   "description":null,
+   "description":"Published in  George Bent, Public Painting (Cambridge: Cambridge University Press, 2017) https:\/\/doi.org\/10.1017\/9781316488973.005",
    "viewingDirection":"left-to-right",
    "viewingHint":"individuals",
    "sequences":[  
@@ -22,28 +22,28 @@
          "label":"Normal Order",
          "canvases":[  
 		{  
-               "@id":"https://cima.ng-london.org.uk/zenodo/manifests/sequence//normal.json",
+               "@id":"https://cima.ng-london.org.uk/zenodo/manifests/sequence/10.5281/zenodo.1434056/normal.json",
                "@type":"sc:Canvas",
-               "label":null,
-               "height":,
-               "width":,
+               "label":"Firenze, Museo dell&#39;Opera del Duomo. Stendardo processionale di Sant&#39;Agata.",
+               "height":5070,
+               "width":2841,
                "images":[  
                   {  
                      "@type":"oa:Annotation",
                      "motivation":"sc:painting",
                      "resource":{  
-                        "@id":"/full/full/0/default.jpg",
+                        "@id":"https://zenodo.org/api/iiif/v2/c6161114-8f08-4b4a-9afc-4aaa6fd88d87:f225d4ce-55ff-4f84-9601-7a6560605dee:Procession%20icon.jpg/full/full/0/default.jpg",
                         "@type":"dctypes:Image",
                         "format":"image/jpeg",
-                        "height":,
-                        "width":,
+                        "height":5070,
+                        "width":2841,
                         "service":{  
                            "@context":"http://iiif.io/api/image/2/context.json",
-                           "@id":"",
+                           "@id":"https://zenodo.org/api/iiif/v2/c6161114-8f08-4b4a-9afc-4aaa6fd88d87:f225d4ce-55ff-4f84-9601-7a6560605dee:Procession%20icon.jpg",
                            "profile":"http://iiif.io/api/image/2/level2.json"
                         }
                      },
-                     "on":"https://cima.ng-london.org.uk/zenodo/manifests/sequence//normal.json"
+                     "on":"https://cima.ng-london.org.uk/zenodo/manifests/sequence/10.5281/zenodo.1434056/normal.json"
                   }
                ]
             }         ]
