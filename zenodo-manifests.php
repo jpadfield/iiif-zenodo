@@ -1,6 +1,6 @@
 <?php
 
-if (!$_GET["id"])
+if (!$_GET["id"] or $_GET["id"] == "index.html" )
 	{$id = "https://zenodo.org/record/1434056";}
 else
 	{$id = "https://zenodo.org/record/".$_GET["id"];}
