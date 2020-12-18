@@ -12,3 +12,8 @@ The manifest can be loaded into any public IIIF viewer such as:
 * https://mirador-dev.netlify.app/__tests__/integration/mirador/
 * https://jpadfield.github.io/simple-mirador/Standard%20Example.html
 
+## Acknowledgement
+This specific project was prepared and tested as part of:
+
+### The AHRC Funded [IIIF - TANC](https://tanc-ahrc.github.io/IIIF-TNC) project
+<img height="64px" src="https://github.com/jpadfield/simple-site/blob/master/docs/graphics/TANC - IIIF.png" alt="IIIF - TNC">
