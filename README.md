@@ -1,3 +1,5 @@
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4584110.svg)](https://doi.org/10.5281/zenodo.4584110)
+
 # iiif-zenodo
 
 This is a quick experiment in how one can automatically generate a [IIIF](https://iiif.io) manifest for images stored on Zenodo.
