@@ -1,5 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4584110.svg)](https://doi.org/10.5281/zenodo.4584110)
 
+> [!WARNING]  
+> This version of the IIIF Zenodo has been updated to attempt to work with the current version of Zenodo, but there seems to be an issue with the info.json files produced by Zenodo so the generated manifests will not resolve in IIIF viewers.
+> 
 # iiif-zenodo
 
 This is a quick experiment in how one can automatically generate a [IIIF](https://iiif.io) manifest for images stored on Zenodo.
