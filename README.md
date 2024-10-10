@@ -1,6 +1,15 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4584110.svg)](https://doi.org/10.5281/zenodo.4584110)
 
 > [!WARNING]  
+> As of 2024 Zenodo has updated their system to directly provide IIIF manifests and resources for images within a given dataset. So I will archive this repo.
+> 
+> As an example for the following dataset: Fort, M., & Gibson, A. (2022). Image Data sets for use in Heritage Science. Zenodo. https://doi.org/10.5281/zenodo.7319696
+> There is a corresponding IIIF manifest at: https://zenodo.org/api/iiif/record:7319696/manifest
+> The dataset page in Zenodo now shows a trimmed down version of Mirador V3, rather than their old simple viewer, showing the images and providing access to the relevant metadata.
+>
+
+
+> [!WARNING]  
 > This version of the IIIF Zenodo has been updated to attempt to work with the current version of Zenodo, but there seems to be an issue with the info.json files produced by Zenodo so the generated manifests will not resolve in IIIF viewers.
 > 
 # iiif-zenodo
